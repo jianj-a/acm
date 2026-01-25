@@ -1,0 +1,1 @@
+{"name":"Local: kmp","url":"e:\\vscode\\code\\模板\\字符串\\kmp.cpp","tests":[{"id":1766626576089,"input":"0\nabcabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\vscode\\code\\模板\\字符串\\kmp.cpp","group":"local","local":true}
